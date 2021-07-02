@@ -1,4 +1,3 @@
-### Hi there 👋
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=mustafaozturk34&show_icons=true">
 
 <h1>Selam 👋</h1>
